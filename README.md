@@ -28,4 +28,4 @@ The model predicts the probability of sentiment being positive as 1 (negative se
 
 AUC with Logistic Regression:
 
-![AUC with Logistic Regression:](AUC4LogRegress.png)
+![AUC with Logistic Regression:](AUC4LogRegre.png)
